@@ -1,0 +1,18 @@
+img {
+    width: 200px;;
+    height: auto;
+}
+h2 {
+    color: darkmagenta
+}
+h4 {
+    color:darkmagenta
+}
+p {
+    color:darkmagenta
+}
+body {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(209, 183, 253)
+}
